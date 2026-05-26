@@ -1,6 +1,6 @@
-![Логотип](https://static.ucheba.ru/pix/logo_cache/22242.upto100x100.webp)
-# tiny-tools-docs
 
+# tiny-tools-docs
+![Логотип](https://static.ucheba.ru/pix/logo_cache/22242.upto100x100.webp)
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 
