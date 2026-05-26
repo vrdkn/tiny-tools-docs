@@ -1,3 +1,4 @@
+![Логотип](https://static.ucheba.ru/pix/logo_cache/22242.upto100x100.webp)
 # tiny-tools-docs
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
