@@ -32,3 +32,7 @@ source venv/bin/activate   # Для Windows: venv\Scripts\activate
 
 # 3. Установите зависимости
 pip install -r requirements.txt
+
+## Документация
+
+Полная документация находится в папке `/docs` (будет добавлена позже).
