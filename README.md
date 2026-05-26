@@ -2,7 +2,6 @@
 ![Логотип](https://static.ucheba.ru/pix/logo_cache/22242.upto100x100.webp)
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
-![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)
 
 ## Описание
 
@@ -36,3 +35,7 @@ source venv/bin/activate   # Для Windows: venv\Scripts\activate
 
 # 3. Установите зависимости
 pip install -r requirements.txt
+```
+## Автор
+
+Редькина Ева Эдуардовна
